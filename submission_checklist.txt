@@ -1,0 +1,6 @@
+✔ GitHub repository
+✔ README.md
+✔ SonarCloud analysis
+✔ Score, Summary, Roadmap
+✔ Screen recording
+✔ Architecture explanation
