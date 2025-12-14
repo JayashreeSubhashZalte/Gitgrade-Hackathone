@@ -1,0 +1,6 @@
+1. GitHub repository homepage
+2. GitHub Actions workflow running
+3. SonarCloud dashboard
+4. Quality Gate result
+5. Issues (bugs/code smells)
+6. Final score, summary, roadmap
