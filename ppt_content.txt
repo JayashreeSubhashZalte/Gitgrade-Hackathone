@@ -1,0 +1,10 @@
+Slide 1: Title – GitGrade
+Slide 2: Problem Statement
+Slide 3: Solution Overview
+Slide 4: Tools Used
+Slide 5: Evaluation Dimensions
+Slide 6: Scoring System
+Slide 7: Sample Input / Output
+Slide 8: Personalized Roadmap
+Slide 9: System Architecture
+Slide 10: Conclusion
