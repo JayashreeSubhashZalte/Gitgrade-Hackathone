@@ -1,0 +1,8 @@
+This project is GitGrade, an AI-powered GitHub repository evaluation system.
+We start by providing a public GitHub repository URL.
+The system uses GitHub APIs and SonarCloud to analyze code quality, structure,
+documentation, testing, and commit history.
+Based on real metrics, we generate a score, a written summary,
+and a personalized improvement roadmap.
+This helps students understand their strengths and weaknesses
+from a recruiter’s perspective.
